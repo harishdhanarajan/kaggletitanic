@@ -1,8 +1,7 @@
-# kaggletitanic
-Titanic-ML
-#Titanic - ML
+kaggletitanic
+Titanic - ML
 
-# library(randomForest)
+#library(randomForest)
 # library(ggplot2)
 # library(ggthemes)
 # library(scales)
