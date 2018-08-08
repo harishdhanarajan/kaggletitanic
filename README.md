@@ -1,3 +1,1 @@
-# kaggletitanic
-Titanic-ML
-Prediction of Titanic Survivals
+Kaggle - Machine Learning using Titanic Dataset
